@@ -1,3 +1,24 @@
 <root>
-  
+  <version>1.0.0</version>
+  <instances>
+    <Suvari>
+      <version>1.0.0</version>
+      <profile></profiel>
+      <minecraftVersion></minecraftVersion>
+      <serverIP></serverIP>
+      <externalVersionLink></externalVersionLink>
+      <minecraftProfileName></minecraftProfileName>
+      <externalModsLink></externalModsLink>
+      
+    </Suvari>
+    <KnightCraft>
+      <version>1.0.0</version>
+      <profile></profiel>
+      <minecraftVersion></minecraftVersion>
+      <serverIP></serverIP>
+      <externalVersionLink></externalVersionLink>
+      <minecraftProfileName></minecraftProfileName>
+      <externalModsLink></externalModsLink>
+    </KnightCraft>
+  </instances>
 </root>
