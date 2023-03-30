@@ -2,7 +2,7 @@
   <version>1.0.0</version>
   <instances>
     
-    <Instance>
+    <KnightCraft>
       <version>1.0.0</version>
       <profile>Minecraft</profile>
       <minecraftVersion></minecraftVersion>
@@ -10,9 +10,9 @@
       <externalVersionLink></externalVersionLink>
       <minecraftProfileName></minecraftProfileName>
       <externalModsLink></externalModsLink>
-    </Instance>
+    </KnightCraft>
     
-    <Instance>
+    <Suvari>
       <version>1.0.0</version>
       <profile>Not Minecraft</profile>
       <minecraftVersion></minecraftVersion>
@@ -20,17 +20,7 @@
       <externalVersionLink></externalVersionLink>
       <minecraftProfileName></minecraftProfileName>
       <externalModsLink></externalModsLink>
-    </Instance>
-    
-    <Instance>
-      <version>1.0.0</version>
-      <profile>Minecraftnt</profile>
-      <minecraftVersion></minecraftVersion>
-      <serverIP></serverIP>
-      <externalVersionLink></externalVersionLink>
-      <minecraftProfileName></minecraftProfileName>
-      <externalModsLink></externalModsLink>
-    </Instance>
+    </Suvari>
     
   </instances>
 </root>
