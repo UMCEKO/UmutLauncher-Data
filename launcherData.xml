@@ -4,7 +4,7 @@
     
     <Suvari>
       <version>1.0.0</version>
-      <profile></profile>
+      <profile>Minecraft</profile>
       <minecraftVersion></minecraftVersion>
       <serverIP></serverIP>
       <externalVersionLink></externalVersionLink>
