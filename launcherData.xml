@@ -22,5 +22,15 @@
       <externalModsLink></externalModsLink>
     </Instance>
     
+    <Instance>
+      <version>1.0.0</version>
+      <profile>Minecraftnt</profile>
+      <minecraftVersion></minecraftVersion>
+      <serverIP></serverIP>
+      <externalVersionLink></externalVersionLink>
+      <minecraftProfileName></minecraftProfileName>
+      <externalModsLink></externalModsLink>
+    </Instance>
+    
   </instances>
 </root>
