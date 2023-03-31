@@ -10,6 +10,7 @@
       <externalVerLink>https://github.com/UMCEKO/AILUB-Public/releases/download/forge/forgeraw.zip</externalVerLink>
       <profileName>1.16.5-forge-36.2.34</profileName>
       <externalModsLink></externalModsLink>
+      <deleteOldFiles>false</deleteOldFiles>
     </KnightCraft>
     
     <Suvari>
@@ -20,6 +21,7 @@
       <externalVerLink></externalVerLink>
       <profileName></profileName>
       <externalModsLink></externalModsLink>
+      <deleteOldFiles>false</deleteOldFiles>
     </Suvari>
     
   </instances>
