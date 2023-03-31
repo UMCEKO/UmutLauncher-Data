@@ -14,9 +14,9 @@
     </KnightCraft>
     
     <Suvari>
-      <version>1.0.0</version>
+      <version>1.0.1</version>
       <selectedProfile>Suvari</selectedProfile>
-      <vanillaVersion>1.16.5</vanillaVersion>
+      <vanillaVersion>1.12.2</vanillaVersion>
       <serverIP></serverIP>
       <externalVerLink></externalVerLink>
       <profileName></profileName>
