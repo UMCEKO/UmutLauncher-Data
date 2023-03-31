@@ -4,11 +4,11 @@
     
     <KnightCraft>
       <version>1.0.0</version>
-      <profile>KnightCraft</profile>
-      <minecraftVersion>1.16.5</minecraftVersion>
+      <selectedProfile>KnightCraft</selectedProfile>
+      <vanillaVersion>1.16.5</vanillaVersion>
       <serverIP></serverIP>
-      <externalVersionLink>https://github.com/UMCEKO/AILUB-Public/releases/download/forge/forgeraw.zip</externalVersionLink>
-      <minecraftProfileName>1.16.5-forge-36.2.34</minecraftProfileName>
+      <externalVerLink>https://github.com/UMCEKO/AILUB-Public/releases/download/forge/forgeraw.zip</externalVerLink>
+      <profileName>1.16.5-forge-36.2.34</profileName>
       <externalModsLink></externalModsLink>
     </KnightCraft>
     
