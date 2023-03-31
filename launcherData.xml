@@ -14,8 +14,8 @@
     
     <Suvari>
       <version>1.0.0</version>
-      <selectedProfile>Not Minecraft</selectedProfile>
-      <vanillaVersion></vanillaVersion>
+      <selectedProfile>Suvari</selectedProfile>
+      <vanillaVersion>1.16.5</vanillaVersion>
       <serverIP></serverIP>
       <externalVerLink></externalVerLink>
       <profileName></profileName>
