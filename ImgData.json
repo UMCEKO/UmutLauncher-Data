@@ -1,28 +1,18 @@
 {
     "datas": {
         "images": [
-            "https://m.media-amazon.com/images/M/MV5BMzgyZWEzMDgtMzI0YS00ZDMwLTllNjQtZjE3ZmVkNWM3YzliXkEyXkFqcGdeQXVyMTYxNzI4OTYx._V1_.jpg",
-            "https://assets2.rockpapershotgun.com/minecraft-house-ideas-hobbit-hole.jpg/BROK/resize/1920x1920%3E/format/jpg/quality/80/minecraft-house-ideas-hobbit-hole.jpg",
-            "https://www.minecraft.net/content/dam/games/minecraft/key-art/CC-Update-Part-II_600x360.jpg",
-            "https://www.minecraft.net/content/dam/games/minecraft/key-art/MC_The-Wild-Update_540x300.jpg"
+            "https://m.media-amazon.com/images/M/MV5BMzgyZWEzMDgtMzI0YS00ZDMwLTllNjQtZjE3ZmVkNWM3YzliXkEyXkFqcGdeQXVyMTYxNzI4OTYx._V1_.jpg"
+
         ],
         "links": [
-            "https://anilist.co/home",
-            "https://www.turkanime.co",
-            "https://stackoverflow.com/questions/47604040/how-to-get-data-returned-from-fetch-promise",
-            "https://css-tricks.com/controlling-css-animations-transitions-javascript/"
+            "https://anilist.co/home"
+
         ],
         "title": [
-            "test1",
-            "test2",
-            "test3",
-            "test4"
+            "test1"
         ],
         "description": [
-            "asdasdasddf",
-            "fglhdfglj",
-            "as fgsjklhsfgjl",
-            "gdfjfklşjşfljgklfhj"
+            "asdasdasddf"
         ]
     }
 }
