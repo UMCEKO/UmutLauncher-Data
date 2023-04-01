@@ -14,10 +14,10 @@
     </KnightCraft>
     
     <Suvari>
-      <version>1.0.2</version>
+      <version>1.0.0</version>
       <selectedProfile>Suvari</selectedProfile>
       <vanillaVersion>1.16.5</vanillaVersion>
-      <serverIP>play.mavibugday.com</serverIP>
+      <serverIP>tr.suvarinetwork.online</serverIP>
       <externalVerLink></externalVerLink>
       <profileName></profileName>
       <externalModsLink></externalModsLink>
