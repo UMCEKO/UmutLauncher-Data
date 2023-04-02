@@ -7,10 +7,10 @@
       <version>1.0.0</version>
       <selectedProfile>KnightCraft</selectedProfile>
       <vanillaVersion>1.16.5</vanillaVersion>
-      <serverIP></serverIP>
-      <externalVerLink>https://github.com/UMCEKO/AILUB-Public/releases/download/forge/forgeraw.zip</externalVerLink>
-      <profileName>1.16.5-forge-36.2.34</profileName>
-      <externalModsLink></externalModsLink>
+      <serverIP>80.208.221.80:25565</serverIP>
+      <externalVerLink>https://github.com/UMCEKO/UmutLauncher-Data/releases/download/forge-10.13.4.1614/10.13.4.1614.zip</externalVerLink>
+      <profileName>1.7.10-Forge10.13.4.1614-1.7.10</profileName>
+      <externalModsLink>https://github.com/UMCEKO/UmutLauncher-Data/releases/download/gtnh/gtnh.zip</externalModsLink>
       <deleteOldFiles>false</deleteOldFiles>
     </KnightCraft>
     
