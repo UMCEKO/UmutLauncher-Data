@@ -6,7 +6,7 @@
     <KnightCraft>
       <version>1.0.0</version>
       <selectedProfile>KnightCraft</selectedProfile>
-      <vanillaVersion>1.16.5</vanillaVersion>
+      <vanillaVersion>1.7.10</vanillaVersion>
       <serverIP>80.208.221.80:25565</serverIP>
       <externalVerLink>https://github.com/UMCEKO/UmutLauncher-Data/releases/download/forge-10.13.4.1614/10.13.4.1614.zip</externalVerLink>
       <profileName>1.7.10-Forge10.13.4.1614-1.7.10</profileName>
