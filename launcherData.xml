@@ -1,6 +1,14 @@
 <root>
-  <version>1.0.1</version>
-  <updateLink>https://github.com/UMCEKO/UmutLauncher-Data/releases/download/test/UmutLauncher.zip</updateLink>
+  <Launcher>
+    <version>1.0.1</version>
+    <updateLink>https://github.com/UMCEKO/UmutLauncher-Data/releases/download/test/UmutLauncher.zip</updateLink>
+  </Launcher>
+  
+  <Updater>
+    <version>1.0.0</version>
+    <updateLink></updateLink>
+  </Updater>
+
   <instances>
     
     <KnightCraft>
