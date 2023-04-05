@@ -20,6 +20,16 @@
       <externalModsLink></externalModsLink>
       <deleteOldFiles>false</deleteOldFiles>
     </Suvari>
+    <Asker>
+      <version>1.0.0</version>
+      <vanillaVersion>1.16.5</vanillaVersion>
+      <serverIP></serverIP>
+      <externalVerLink></externalVerLink>
+      <profileName></profileName>
+      <externalModsLink></externalModsLink>
+      <deleteOldFiles>false</deleteOldFiles>
+    </Asker>
+    
     
   </instances>
 </root>
