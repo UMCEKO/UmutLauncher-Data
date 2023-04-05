@@ -20,15 +20,6 @@
       <externalModsLink></externalModsLink>
       <deleteOldFiles>false</deleteOldFiles>
     </Suvari>
-    <KnightCraft>
-      <version>1.0.1</version>
-      <vanillaVersion>1.16.5</vanillaVersion>
-      <serverIP></serverIP>
-      <externalVerLink></externalVerLink>
-      <profileName></profileName>
-      <externalModsLink></externalModsLink>
-      <deleteOldFiles>false</deleteOldFiles>
-    </KnightCraft>
     
   </instances>
 </root>
