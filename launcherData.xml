@@ -12,12 +12,12 @@
   <instances>
     
     <Suvari>
-      <version>1.0.1</version>
-      <vanillaVersion>1.15.2</vanillaVersion>
-      <serverIP></serverIP>
-      <externalVerLink></externalVerLink>
-      <profileName></profileName>
-      <externalModsLink></externalModsLink>
+      <version>1.0.2</version>
+      <vanillaVersion>1.16.5</vanillaVersion>
+      <serverIP>tr.suvarinetwork.online</serverIP>
+      <externalVerLink>https://github.com/UMCEKO/UmutLauncher-Data/releases/download/fabric-1.16.5/fabric.zip</externalVerLink>
+      <profileName>fabric-loader-0.14.19-1.16.5</profileName>
+      <externalModsLink>https://github.com/UMCEKO/UmutLauncher-Data/releases/download/fabric-1.16.5/fabric.zip</externalModsLink>
       <deleteOldFiles>false</deleteOldFiles>
     </Suvari>
     
