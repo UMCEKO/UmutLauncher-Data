@@ -20,6 +20,15 @@
       <externalModsLink>https://github.com/UMCEKO/UmutLauncher-Data/releases/download/fabulously-optimized/mods.zip</externalModsLink>
       <deleteOldFiles>true</deleteOldFiles>
     </Suvari>
+    <NormalSuvari>
+      <version>1.0.0</version>
+      <vanillaVersion>1.16.5</vanillaVersion>
+      <serverIP>193.35.154.158:25565</serverIP>
+      <externalVerLink></externalVerLink>
+      <profileName></profileName>
+      <externalModsLink></externalModsLink>
+      <deleteOldFiles>false</deleteOldFiles>
+    </NormalSuvari>
     
   </instances>
 </root>
