@@ -15,6 +15,7 @@
       <version>1.0.5</version>
       <vanillaVersion>1.16.5</vanillaVersion>
       <serverIP>193.35.154.158</serverIP>
+      <port>25565</port>
       <externalVerLink>https://github.com/UMCEKO/UmutLauncher-Data/releases/download/fabric-1.16.5/fabric.zip</externalVerLink>
       <profileName>fabric-loader-0.13.3-1.16.5</profileName>
       <externalModsLink>https://github.com/UMCEKO/UmutLauncher-Data/releases/download/fabulously-optimized/mods.zip</externalModsLink>
@@ -24,6 +25,7 @@
       <version>1.0.0</version>
       <vanillaVersion>1.16.5</vanillaVersion>
       <serverIP>193.35.154.158</serverIP>
+      <port>25565</port>
       <externalVerLink></externalVerLink>
       <profileName></profileName>
       <externalModsLink></externalModsLink>
